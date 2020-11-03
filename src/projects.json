@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "DOGEARd Book Club App",
-      "link": "https://polar-harbor-26142.herokuapp.com/",
+      "link": "https://boiling-dawn-66730.herokuapp.com/",
       "git": "https://github.com/mshattuck/project3team2"
     },
     {
@@ -16,7 +16,7 @@
       "id": 3,
       "title": "Daily Planner App",
       "link": "https://mshattuck.github.io/dailyplanner/",
-      "git": "https://github.com/mshattuck/project3team2"
+      "git": "https://github.com/mshattuck/dailyplanner"
     },
     {
       "id": 4,
@@ -32,9 +32,9 @@
     },
     {
       "id": 6,
-      "title": "Daily Planner App",
-      "link": "https://mshattuck.github.io/dailyplanner/",
-      "git": "https://github.com/mshattuck/dailyplanner/"
+      "title": "Budget Tracker App",
+      "link": "https://murmuring-badlands-99773.herokuapp.com/",
+      "git": "https://github.com/mshattuck/budgettracker"
     }
   ]
   
